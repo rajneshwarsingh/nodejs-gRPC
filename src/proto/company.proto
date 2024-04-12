@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+service CompanyService {
+  rpc getCompany(getRequest) returns (CompanyDataResponse);
+}
+
+message getRequest{
+    string id = 1;
+    string name = 2;
+}
+
+message getCompanyRequest{}
+
+message CompanyDataRespone {
+   CompanyDataResponse data = 1;
+}
+
+message CompanyDataResponse {
+    string id = 1;
+    string name = 2;
+}
