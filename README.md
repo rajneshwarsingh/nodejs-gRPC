@@ -2,7 +2,7 @@
 
 ## What will you need
 
-- Clone this repository: <a href="https://github.com/rajneshwarsingh/nodejs-gRPC">nodejs-gRPC</a>
+- Clone this repository: <a target="_blank" href="https://github.com/rajneshwarsingh/nodejs-gRPC">nodejs-gRPC</a>
 - An IDE or text editor like VS Code
 - Node version installed above 20.12.1
 - A package manager such as NPM or Yarn
@@ -30,15 +30,15 @@ The following topics covered in this unit:
 <table>
   <tr>
     <td><b>Node.js:</b></td>
-    <td><a href="https://nodejs.org/en">Nodejs.org</a></td>
+    <td><a target="_blank" href="https://nodejs.org/en">Nodejs.org</a></td>
   </tr>
   <tr>
     <td><b>Typescript:</b></td>
-    <td><a href="https://www.typescriptlang.org/">typescriptlang.org</a></td>
+    <td><a target="_blank" href="https://www.typescriptlang.org/">typescriptlang.org</a></td>
   </tr>
   <tr>
     <td><b>gRPC:</b></td>
-    <td><a href="https://grpc.io/">grpc.io</a></td>
+    <td><a target="_blank" href="https://grpc.io/">grpc.io</a></td>
   </tr>
 </table>
 
